@@ -1,0 +1,43 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Thalipeeth",
+      "ingredients": [
+        "1 Cup Besan",
+        "Termeric",
+        "Salt",
+        "Garlic"
+      ],
+      "method": "1. Mix all the above ingredients 2. cover and let the dough rest for 10 minutes 3. Heat up tawa 4. make roti of mixture and put on hot tawa 5. Let it cook well on both sides",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Sabudana Vada",
+      "ingredients": [
+        "Sago(Sabudana)",
+        "Potato",
+        "Green chillies",
+        "Salt",
+        "Onion",
+        "Oil"
+      ],
+      "method": "1. Soak the sago in water at least 3 hours or overnight 2. Peel the boiled potatoes, mash it and add to sago 3. Mix above ingredients all together and make small balls out of mixture 4. Heat the oil and deep fry the vadas",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Aamras",
+      "ingredients": [
+        "Mangoes",
+        "Sugar",
+        "Milk(optional)",
+        "Cardamom - 1",
+        "Chopped nuts - for garnish"
+      ],
+      "method": "1. Wash and peel the mangoes. Chop the flesh into small pieces. 2. take these pieces in blender or mixie jar, add sugar. 3. Blend it and smooth puree. 4. Remove the puree into a serving dish, Garnish with chopped nuts or saffron strands. 5. Chill it for 1-2 hours before serving",
+      "cookingTime": "30 minutes"
+    }
+  ]
+}
